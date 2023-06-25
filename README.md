@@ -1,3 +1,4 @@
 # Personal-Site
-This is my main personal website\n
-Status: Under development
+This is my main personal website
+
+## Status: Under development
